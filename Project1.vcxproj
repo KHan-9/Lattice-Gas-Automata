@@ -155,12 +155,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Automaton2D.cpp" />
     <ClCompile Include="CelluarAutomata.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Automaton2D.h" />
     <ClInclude Include="Cell.h" />
     <ClInclude Include="CelluarAutomata.h" />
   </ItemGroup>
